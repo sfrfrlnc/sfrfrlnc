@@ -1,6 +1,6 @@
 # Selamat Datang 👋
 
-Akun GitHub ini berisi catatan saya seputar ilmu Biologi selama saya sedang belajar.
+Akun GitHub ini berisi catatan saya seputar ilmu berkebun selama saya sedang belajar.
 
 Jika dirasa berguna, silakan baca.
 
